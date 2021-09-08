@@ -9,3 +9,27 @@ BusinessCard {
 	text-align: left;
 }
 
+
+Name {
+	color: black;
+	font-weight: bold;
+	font-size: 140%;
+	display: block;
+	margin-bottom: 3%;
+
+}
+
+phone {
+	color: black;
+	font-size: 90%;
+	display: block;
+}
+
+email{
+	color: black;
+	font-size: 90%;
+	display: block;
+	font-weight: bold;
+	margin-top: 3%;
+
+}
